@@ -7,7 +7,7 @@ Dumb terminal-escapes-to-colors text syntax for Vim.
 If you don't already use an add-on manager for Vim, you
 really should.  I prefer [Vundle](https://github.com/gmarik/vundle), but lots of
 people seem to like [Pathogen](https://github.com/tpope/vim-pathogen).
-Vim Addon Manager (VAM), has [a good comparison of vim addon managers](https://github.com/MarcWeber/vim-addon-manager/doc/vim-addon-manager-additional-documentation.txt).
+Vim Addon Manager (VAM), has [a good comparison of vim addon managers](https://github.com/MarcWeber/vim-addon-manager/tree/master/doc/vim-addon-manager-additional-documentation.txt) (search for `VAM-comparison`).
 
 With Vundle, add: `Bundle 'benizi/vim-txt-256color'` wherever you manage your
 `Bundle` commands.
