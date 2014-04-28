@@ -23,9 +23,9 @@ Already, I've got two TODO items:
 
 - Currently, you have to set this filetype manually.
 
-        ```vim
-        :se ft=txt-256color
-        ```
+    ```vim
+    :se ft=txt-256color
+    ```
 
 - It's not quite set up the way you're supposed to set up a filetype plugin.
 (doesn't check for existing syntax, etc.).  Since it has to be done manually
